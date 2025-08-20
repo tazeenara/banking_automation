@@ -1,0 +1,14 @@
+1. Accounts
+----------------------
+        acn_acno int primary key autoincrement
+        acn_name text 
+        acn_pass text
+        acn_email text
+        acn_mob text
+        acn_adhar text
+        acn_address text
+        acn_dob text
+        acn_gender text
+        acn_pancard text
+        acn_bal float
+        acn_opendate text
